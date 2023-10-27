@@ -61,7 +61,7 @@
 ```python
 	# Helper function to partition the array
 	def helper(a, low, high):
-		# Choose rightmore element as pivot
+		# Choose rightmost element as pivot
 		pivot = a[high]
 
 		# Pointer for greater element
