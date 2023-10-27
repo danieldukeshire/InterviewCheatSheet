@@ -8,3 +8,7 @@ This is some information on Graph Algorithms
 ### Depth-First Search
 
 ### Tree Traversal
+
+## Pathing
+
+### Dijkstras Algorithm
