@@ -3,7 +3,7 @@
 ## Bubble Sort
 
 ## Merge Sort
-* Uses a "divide and conquer" approach
+* Uses a "divide and conquer" approach\
   1). Repeatedly divide the input into smaller subarrays, until a base case of a single element is reached (this single element subarray is considered sorted)
 
   2). Repeatedly merge the smaller sorted subarrays into bigger sorted subarrays, until the entire input is merged back together
