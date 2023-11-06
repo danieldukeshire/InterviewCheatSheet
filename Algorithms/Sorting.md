@@ -3,7 +3,7 @@
 ## Bubble Sort
 
 ## Merge Sort
-* Uses a "divide and conquer" approach
+* Uses a "divide and conquer" approach\
   1). Repeatedly divide the input into smaller subarrays, until a base case of a single element is reached (this single element subarray is considered sorted)
 
   2). Repeatedly merge the smaller sorted subarrays into bigger sorted subarrays, until the entire input is merged back together
@@ -61,7 +61,7 @@
 ```python
 	# Helper function to partition the array
 	def helper(a, low, high):
-		# Choose rightmore element as pivot
+		# Choose rightmost element as pivot
 		pivot = a[high]
 
 		# Pointer for greater element
